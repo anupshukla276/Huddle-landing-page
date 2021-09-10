@@ -4,8 +4,8 @@
 
 ## Technology-
 
-                . Html5
-                  .Css3
+                -HTML5
+                  -CSS3
 
 ## Description
 
